@@ -1,0 +1,2 @@
+Compile C++11 Source Code with g++
+g++ -o file file.cpp --std=c++0x
