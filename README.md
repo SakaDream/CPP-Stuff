@@ -1,2 +1,2 @@
 # CPP-Stuff
-Some C++ stuff for learning :)
+Some small C++ projects for learning :)
